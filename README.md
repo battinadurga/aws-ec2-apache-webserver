@@ -22,7 +22,7 @@ This project shows how I deployed an Apache web server on an AWS EC2 instance. I
 6. Opened the public IP in the browser to check the web page.
 
 ## Screenshots
-Add your screenshots here.
+![Apache page](apache-page.png)
 
 ## What I Learned
 - Launching and managing EC2 instances
